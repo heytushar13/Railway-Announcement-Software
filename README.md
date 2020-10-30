@@ -17,4 +17,7 @@ pip install pydub
 pip install gTTS
 
 # Excel-
-Enter the train details that you want to auto generate the announcement. 
+Enter the train details that you want to generate the announcement.
+
+# Format-
+Odd no. files that audio which we add and even no. files are those files that are auto-generated.
