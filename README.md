@@ -16,3 +16,5 @@ pip install pyaudio
 pip install pydub
 pip install gTTS
 
+# Excel-
+Enter the train details that you want to auto generate the announcement. 
